@@ -1,2 +1,2 @@
 # react-frontend-dojo
-kinckstart
+kickstart
